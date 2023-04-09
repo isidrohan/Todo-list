@@ -24,7 +24,6 @@
 .navbar li a:hover,
 .navbar li a.active{
   color: red;
-  text-decoration: underline;
 }
 
 /* todos */
