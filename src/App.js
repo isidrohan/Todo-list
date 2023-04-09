@@ -50,6 +50,7 @@ function App() {
   
   return (
   <>
+    
     <Navbar></Navbar>
     <AddTodo addTodo={addTodo}></AddTodo>
     <Todos todos = {todos} ondelete = {ondelete}></Todos>
